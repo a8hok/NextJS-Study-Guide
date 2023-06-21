@@ -1,5 +1,4 @@
 # Nextjs-preparation
-To prepare NextJS
 
 ## `NextJS`
 - [https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-nextjs-tailwindcss/](https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-nextjs-tailwindcss/)<br>
@@ -63,6 +62,7 @@ To prepare NextJS
 
 ## Nextjs 13
 - [https://www.builder.io/blog/layouts-in-nextjs-13-visual](https://www.builder.io/blog/layouts-in-nextjs-13-visual)<br>
+- [https://blog.tericcabrel.com/protect-your-api-routes-in-next-js-with-middleware/](https://blog.tericcabrel.com/protect-your-api-routes-in-next-js-with-middleware/)<br>
 
 ## NextJS deployment
 - [https://www.thisdot.co/blog/utilizing-api-environment-variables-on-next-js-apps-deployed-to-aws-amplify/](https://www.thisdot.co/blog/utilizing-api-environment-variables-on-next-js-apps-deployed-to-aws-amplify/)<br>
