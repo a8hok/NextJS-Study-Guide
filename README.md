@@ -67,3 +67,6 @@
 ## NextJS deployment
 - [https://www.thisdot.co/blog/utilizing-api-environment-variables-on-next-js-apps-deployed-to-aws-amplify/](https://www.thisdot.co/blog/utilizing-api-environment-variables-on-next-js-apps-deployed-to-aws-amplify/)<br>
 - [https://blog.openreplay.com/going-serverless-with-nextjs/](https://blog.openreplay.com/going-serverless-with-nextjs/)<br>
+
+## Nextjs SEO
+- [https://www.builder.io/blog/routing-seo-metadata-nextjs-13](https://www.builder.io/blog/routing-seo-metadata-nextjs-13)<br>
