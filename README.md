@@ -70,3 +70,6 @@
 
 ## Nextjs SEO
 - [https://www.builder.io/blog/routing-seo-metadata-nextjs-13](https://www.builder.io/blog/routing-seo-metadata-nextjs-13)<br>
+
+## NextJS youtube
+- [https://www.youtube.com/watch?v=34396VmsYp8](https://www.youtube.com/watch?v=34396VmsYp8)<br>
