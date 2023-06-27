@@ -74,3 +74,4 @@
 ## NextJS youtube
 - [https://www.youtube.com/watch?v=34396VmsYp8](https://www.youtube.com/watch?v=34396VmsYp8)<br>
 - [https://www.youtube.com/watch?v=5Cac3FoEEWM](https://www.youtube.com/watch?v=5Cac3FoEEWM)<br>
+- [https://www.youtube.com/watch?v=pUNSHPyVryU](https://www.youtube.com/watch?v=pUNSHPyVryU)<br>
