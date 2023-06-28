@@ -77,3 +77,6 @@
 - [https://www.youtube.com/watch?v=pUNSHPyVryU](https://www.youtube.com/watch?v=pUNSHPyVryU)<br>
 - [https://www.youtube.com/watch?v=yQaSCQ0OQtQ](https://www.youtube.com/watch?v=yQaSCQ0OQtQ)<br>
 - [https://www.youtube.com/watch?v=Ai7HJH2I08s](https://www.youtube.com/watch?v=Ai7HJH2I08s)<br>
+
+## NextJS projects
+- [https://dev.to/arshadayvid/how-i-built-a-sales-management-app-with-nextjs-13-typescript-and-firebase-16cb](https://dev.to/arshadayvid/how-i-built-a-sales-management-app-with-nextjs-13-typescript-and-firebase-16cb)<br>
