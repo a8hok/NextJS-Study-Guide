@@ -63,6 +63,7 @@
 ## Nextjs 13
 - [https://www.builder.io/blog/layouts-in-nextjs-13-visual](https://www.builder.io/blog/layouts-in-nextjs-13-visual)<br>
 - [https://blog.tericcabrel.com/protect-your-api-routes-in-next-js-with-middleware/](https://blog.tericcabrel.com/protect-your-api-routes-in-next-js-with-middleware/)<br>
+- [https://www.builder.io/blog/layouts-in-nextjs-13-visual](https://www.builder.io/blog/layouts-in-nextjs-13-visual)<br>
 
 ## NextJS deployment
 - [https://www.thisdot.co/blog/utilizing-api-environment-variables-on-next-js-apps-deployed-to-aws-amplify/](https://www.thisdot.co/blog/utilizing-api-environment-variables-on-next-js-apps-deployed-to-aws-amplify/)<br>
