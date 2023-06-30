@@ -87,3 +87,6 @@
 - [https://remaster.com/blog/next-auth-jwt-session](https://remaster.com/blog/next-auth-jwt-session)<br>
 - [https://dev.to/ekimcem/nextauthjs-authjs-credential-authentication-with-methods-you-need--21al](https://dev.to/ekimcem/nextauthjs-authjs-credential-authentication-with-methods-you-need--21al)<br>
 - [https://dev.to/husnain/how-to-use-jwt-authentication-in-nodejsnextjs-2pp0](https://dev.to/husnain/how-to-use-jwt-authentication-in-nodejsnextjs-2pp0)<br>
+
+## NextJS Migration
+- [https://betterprogramming.pub/migrating-a-complete-creat-react-app-to-nextjs-ba6edd8e64f1](https://betterprogramming.pub/migrating-a-complete-creat-react-app-to-nextjs-ba6edd8e64f1)<br>
