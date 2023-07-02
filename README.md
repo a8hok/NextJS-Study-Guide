@@ -90,3 +90,6 @@
 
 ## NextJS Migration
 - [https://betterprogramming.pub/migrating-a-complete-creat-react-app-to-nextjs-ba6edd8e64f1](https://betterprogramming.pub/migrating-a-complete-creat-react-app-to-nextjs-ba6edd8e64f1)<br>
+
+## Nextjs Routing
+- [https://www.builder.io/blog/dev-drop-7](https://www.builder.io/blog/dev-drop-7)<br>
