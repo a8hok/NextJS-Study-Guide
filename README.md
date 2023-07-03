@@ -73,6 +73,7 @@
 
 ## Nextjs SEO
 - [https://www.builder.io/blog/routing-seo-metadata-nextjs-13](https://www.builder.io/blog/routing-seo-metadata-nextjs-13)<br>
+- [https://hackernoon.com/optimizing-seo-in-nextjs-techniques-for-better-search-engine-visibility?source=rss](https://hackernoon.com/optimizing-seo-in-nextjs-techniques-for-better-search-engine-visibility?source=rss)<br>
 
 ## NextJS youtube
 - [https://www.youtube.com/watch?v=34396VmsYp8](https://www.youtube.com/watch?v=34396VmsYp8)<br>
