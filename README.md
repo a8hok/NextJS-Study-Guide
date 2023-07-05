@@ -71,7 +71,7 @@
 - [https://blog.openreplay.com/going-serverless-with-nextjs/](https://blog.openreplay.com/going-serverless-with-nextjs/)<br>
 - [https://dev.to/scaabel/containerizing-a-nextjs-application-for-development-204d](https://dev.to/scaabel/containerizing-a-nextjs-application-for-development-204d)<br>
 
-## Nextjs SEO
+## NextJS SEO
 - [https://www.builder.io/blog/routing-seo-metadata-nextjs-13](https://www.builder.io/blog/routing-seo-metadata-nextjs-13)<br>
 - [https://hackernoon.com/optimizing-seo-in-nextjs-techniques-for-better-search-engine-visibility?source=rss](https://hackernoon.com/optimizing-seo-in-nextjs-techniques-for-better-search-engine-visibility?source=rss)<br>
 
@@ -93,5 +93,8 @@
 ## NextJS Migration
 - [https://betterprogramming.pub/migrating-a-complete-creat-react-app-to-nextjs-ba6edd8e64f1](https://betterprogramming.pub/migrating-a-complete-creat-react-app-to-nextjs-ba6edd8e64f1)<br>
 
-## Nextjs Routing
+## NextJS Routing
 - [https://www.builder.io/blog/dev-drop-7](https://www.builder.io/blog/dev-drop-7)<br>
+
+## NextJS Server
+- [https://www.thisdot.co/blog/next-js-13-server-actions/](https://www.thisdot.co/blog/next-js-13-server-actions/)<br>
