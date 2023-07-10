@@ -101,3 +101,6 @@
 
 ## NextJS Server
 - [https://www.thisdot.co/blog/next-js-13-server-actions/](https://www.thisdot.co/blog/next-js-13-server-actions/)<br>
+
+## NextJS Layout
+- [https://dev.to/logrocket/a-guide-to-nextjs-layouts-and-nested-layouts-5c0d](https://dev.to/logrocket/a-guide-to-nextjs-layouts-and-nested-layouts-5c0d)<br>
