@@ -105,3 +105,6 @@
 
 ## NextJS Layout
 - [https://dev.to/logrocket/a-guide-to-nextjs-layouts-and-nested-layouts-5c0d](https://dev.to/logrocket/a-guide-to-nextjs-layouts-and-nested-layouts-5c0d)<br>
+
+## NextJS Deploy
+- [https://awstip.com/running-a-next-js-application-on-a-linux-based-ec2-instance-1b5bab9c6728](https://awstip.com/running-a-next-js-application-on-a-linux-based-ec2-instance-1b5bab9c6728)<br>
