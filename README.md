@@ -109,3 +109,4 @@
 
 ## NextJS Deploy
 - [https://awstip.com/running-a-next-js-application-on-a-linux-based-ec2-instance-1b5bab9c6728](https://awstip.com/running-a-next-js-application-on-a-linux-based-ec2-instance-1b5bab9c6728)<br>
+- [https://blog.openreplay.com/build-a-cloud-based-project-management-app-with-next-js/](https://blog.openreplay.com/build-a-cloud-based-project-management-app-with-next-js/)<br>
