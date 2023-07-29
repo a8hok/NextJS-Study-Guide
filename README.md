@@ -87,6 +87,7 @@
 ## NextJS projects
 - [https://dev.to/arshadayvid/how-i-built-a-sales-management-app-with-nextjs-13-typescript-and-firebase-16cb](https://dev.to/arshadayvid/how-i-built-a-sales-management-app-with-nextjs-13-typescript-and-firebase-16cb)<br>
 - [https://hackernoon.com/building-a-pricing-page-and-charging-visitors-a-nextjs-guide?source=rss](https://hackernoon.com/building-a-pricing-page-and-charging-visitors-a-nextjs-guide?source=rss)<br>
+- [https://www.freecodecamp.org/news/full-stack-with-nextjs-and-appwrite-course/](https://www.freecodecamp.org/news/full-stack-with-nextjs-and-appwrite-course/)<br>
 
 ## Next auth
 - [https://remaster.com/blog/next-auth-jwt-session](https://remaster.com/blog/next-auth-jwt-session)<br>
