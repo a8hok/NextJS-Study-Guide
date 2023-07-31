@@ -112,6 +112,7 @@
 ## NextJS Deploy
 - [https://awstip.com/running-a-next-js-application-on-a-linux-based-ec2-instance-1b5bab9c6728](https://awstip.com/running-a-next-js-application-on-a-linux-based-ec2-instance-1b5bab9c6728)<br>
 - [https://blog.openreplay.com/build-a-cloud-based-project-management-app-with-next-js/](https://blog.openreplay.com/build-a-cloud-based-project-management-app-with-next-js/)<br>
+- [https://hackernoon.com/docker-for-beginners-containerizing-a-nextjs-application?source=rss](https://hackernoon.com/docker-for-beginners-containerizing-a-nextjs-application?source=rss)<br>
 
 ## NextJS GraphQL
 - [https://dev.to/franciscomendes10866/nextjs-and-graphql-the-perfect-combination-for-full-stack-development-18l7](https://dev.to/franciscomendes10866/nextjs-and-graphql-the-perfect-combination-for-full-stack-development-18l7)<br>
