@@ -96,6 +96,7 @@
 - [https://dev.to/husnain/how-to-use-jwt-authentication-in-nodejsnextjs-2pp0](https://dev.to/husnain/how-to-use-jwt-authentication-in-nodejsnextjs-2pp0)<br>
 - [https://www.freecodecamp.org/news/how-to-authenticate-users-with-nextauth-in-nextjs-app-and-pages-router/](https://www.freecodecamp.org/news/how-to-authenticate-users-with-nextauth-in-nextjs-app-and-pages-router/)<br>
 - [https://www.traversymedia.com/blog/nextjs-react-authentication-clerk](https://www.traversymedia.com/blog/nextjs-react-authentication-clerk)<br>
+- [https://www.permit.io/blog/nextjs-passwordless-authentication-with-supertokens-and-twilio](https://www.permit.io/blog/nextjs-passwordless-authentication-with-supertokens-and-twilio)<br>
 
 ## NextJS Migration
 - [https://betterprogramming.pub/migrating-a-complete-creat-react-app-to-nextjs-ba6edd8e64f1](https://betterprogramming.pub/migrating-a-complete-creat-react-app-to-nextjs-ba6edd8e64f1)<br>
