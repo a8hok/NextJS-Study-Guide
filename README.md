@@ -104,6 +104,7 @@
 
 ## NextJS Routing
 - [https://www.builder.io/blog/dev-drop-7](https://www.builder.io/blog/dev-drop-7)<br>
+- [https://auth0.com/blog/auth0-stable-support-for-nextjs-app-router/](https://auth0.com/blog/auth0-stable-support-for-nextjs-app-router/)<br>
 
 ## NextJS Server
 - [https://www.thisdot.co/blog/next-js-13-server-actions/](https://www.thisdot.co/blog/next-js-13-server-actions/)<br>
