@@ -107,6 +107,7 @@
 - [https://auth0.com/blog/auth0-stable-support-for-nextjs-app-router/](https://auth0.com/blog/auth0-stable-support-for-nextjs-app-router/)<br>
 - [https://supabase.com/blog/using-supabase-with-vercel](https://supabase.com/blog/using-supabase-with-vercel)<br>
 - [https://hackernoon.com/building-real-time-applications-with-nextjs-134-server-actions-1-introduction?source=rss](https://hackernoon.com/building-real-time-applications-with-nextjs-134-server-actions-1-introduction?source=rss)<br>
+- [https://javascript.plainenglish.io/5-must-have-tools-for-building-web-applications-with-next-js-app-router-e24002aa4dcf](https://javascript.plainenglish.io/5-must-have-tools-for-building-web-applications-with-next-js-app-router-e24002aa4dcf)<br>
 
 ## NextJS Server
 - [https://www.thisdot.co/blog/next-js-13-server-actions/](https://www.thisdot.co/blog/next-js-13-server-actions/)<br>
