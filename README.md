@@ -116,6 +116,7 @@
 - [https://hackernoon.com/building-real-time-applications-with-nextjs-134-server-actions-1-introduction?source=rss](https://hackernoon.com/building-real-time-applications-with-nextjs-134-server-actions-1-introduction?source=rss)<br>
 - [https://javascript.plainenglish.io/5-must-have-tools-for-building-web-applications-with-next-js-app-router-e24002aa4dcf](https://javascript.plainenglish.io/5-must-have-tools-for-building-web-applications-with-next-js-app-router-e24002aa4dcf)<br>
 - [https://www.freecodecamp.org/news/routing-in-nextjs/](https://www.freecodecamp.org/news/routing-in-nextjs/)<br>
+- [https://awstip.com/nextjs-data-fetching-strategies-for-server-side-components-3c66b021e8fa](https://awstip.com/nextjs-data-fetching-strategies-for-server-side-components-3c66b021e8fa)<br>
 
 ## NextJS Server
 - [https://www.thisdot.co/blog/next-js-13-server-actions/](https://www.thisdot.co/blog/next-js-13-server-actions/)<br>
