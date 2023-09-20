@@ -97,6 +97,7 @@
 - [https://www.builder.io/blog/nextjs-drag-and-drop](https://www.builder.io/blog/nextjs-drag-and-drop)<br>
 - [https://morioh.com/a/b5c3e94e680a/build-a-full-stack-pinterest-clone-using-nextjs-13-reactjs-nextaut](https://morioh.com/a/b5c3e94e680a/build-a-full-stack-pinterest-clone-using-nextjs-13-reactjs-nextaut)<br>
 - [https://itnext.io/build-a-full-stack-reminderapp-with-react-nextjs-typescript-serveraction-zod-hook-form-prisma-4ac0f4cab053](https://itnext.io/build-a-full-stack-reminderapp-with-react-nextjs-typescript-serveraction-zod-hook-form-prisma-4ac0f4cab053)<br>
+- [https://www.freecodecamp.org/news/build-and-deploy-an-ai-saas-with-paid-subscriptions/](https://www.freecodecamp.org/news/build-and-deploy-an-ai-saas-with-paid-subscriptions/)<br>
 
 ## Next auth
 - [https://remaster.com/blog/next-auth-jwt-session](https://remaster.com/blog/next-auth-jwt-session)<br>
