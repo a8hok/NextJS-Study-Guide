@@ -69,6 +69,7 @@
 - [https://hackernoon.com/how-to-manage-state-in-nextjs-13-using-redux-toolkit?source=rss](https://hackernoon.com/how-to-manage-state-in-nextjs-13-using-redux-toolkit?source=rss)<br>
 - [https://prismic.io/blog/nextjs-fonts](https://prismic.io/blog/nextjs-fonts)<br>
 - [https://hackernoon.com/how-lesssuspense-greater-and-components-streaming-works-in-nextjs?source=rss](https://hackernoon.com/how-lesssuspense-greater-and-components-streaming-works-in-nextjs?source=rss)<br>
+- [https://www.antstack.com/blog/exploring-react-server-components-and-server-actions-with-next-js/?ref=dailydev](https://www.antstack.com/blog/exploring-react-server-components-and-server-actions-with-next-js/?ref=dailydev)<br>
 
 ## NextJS deployment
 - [https://www.thisdot.co/blog/utilizing-api-environment-variables-on-next-js-apps-deployed-to-aws-amplify/](https://www.thisdot.co/blog/utilizing-api-environment-variables-on-next-js-apps-deployed-to-aws-amplify/)<br>
