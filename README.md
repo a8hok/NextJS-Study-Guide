@@ -104,6 +104,7 @@
 - [https://www.freecodecamp.org/news/build-and-deploy-an-ai-saas-with-paid-subscriptions/](https://www.freecodecamp.org/news/build-and-deploy-an-ai-saas-with-paid-subscriptions/)<br>
 - [https://getstream.io/blog/whatsapp-nextjs/](https://getstream.io/blog/whatsapp-nextjs/)<br>
 - [https://coinsbench.com/build-a-decentralized-voting-dapp-with-next-js-typescript-tailwind-css-and-cometchat-3e1aaa1cdced](https://coinsbench.com/build-a-decentralized-voting-dapp-with-next-js-typescript-tailwind-css-and-cometchat-3e1aaa1cdced)<br>
+- [https://hackernoon.com/how-to-build-a-shopping-cart-with-nextjs-and-zustand-state-management-with-typescript](https://hackernoon.com/how-to-build-a-shopping-cart-with-nextjs-and-zustand-state-management-with-typescript)<br>
 
 ## Next auth
 - [https://remaster.com/blog/next-auth-jwt-session](https://remaster.com/blog/next-auth-jwt-session)<br>
