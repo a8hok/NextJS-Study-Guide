@@ -102,7 +102,6 @@
 - [https://itnext.io/build-a-full-stack-reminderapp-with-react-nextjs-typescript-serveraction-zod-hook-form-prisma-4ac0f4cab053](https://itnext.io/build-a-full-stack-reminderapp-with-react-nextjs-typescript-serveraction-zod-hook-form-prisma-4ac0f4cab053)<br>
 - [https://www.freecodecamp.org/news/build-and-deploy-an-ai-saas-with-paid-subscriptions/](https://www.freecodecamp.org/news/build-and-deploy-an-ai-saas-with-paid-subscriptions/)<br>
 - [https://www.freecodecamp.org/news/build-an-seo-optimized-blog-with-next-js/](https://www.freecodecamp.org/news/build-an-seo-optimized-blog-with-next-js/)<br>
-- [https://www.freecodecamp.org/news/build-and-deploy-an-ai-saas-with-paid-subscriptions/](https://www.freecodecamp.org/news/build-and-deploy-an-ai-saas-with-paid-subscriptions/)<br>
 - [https://getstream.io/blog/whatsapp-nextjs/](https://getstream.io/blog/whatsapp-nextjs/)<br>
 - [https://coinsbench.com/build-a-decentralized-voting-dapp-with-next-js-typescript-tailwind-css-and-cometchat-3e1aaa1cdced](https://coinsbench.com/build-a-decentralized-voting-dapp-with-next-js-typescript-tailwind-css-and-cometchat-3e1aaa1cdced)<br>
 - [https://hackernoon.com/how-to-build-a-shopping-cart-with-nextjs-and-zustand-state-management-with-typescript](https://hackernoon.com/how-to-build-a-shopping-cart-with-nextjs-and-zustand-state-management-with-typescript)<br>
