@@ -141,3 +141,6 @@
 
 ## NextJS GraphQL
 - [https://dev.to/franciscomendes10866/nextjs-and-graphql-the-perfect-combination-for-full-stack-development-18l7](https://dev.to/franciscomendes10866/nextjs-and-graphql-the-perfect-combination-for-full-stack-development-18l7)<br>
+
+## NextJS Security
+- [https://blog.openreplay.com/best-practices-for-security-in-nextjs/?ref=dailydev](https://blog.openreplay.com/best-practices-for-security-in-nextjs/?ref=dailydev)<br>
