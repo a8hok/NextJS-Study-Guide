@@ -147,3 +147,6 @@
 
 ## NextJS Security
 - [https://blog.openreplay.com/best-practices-for-security-in-nextjs/?ref=dailydev](https://blog.openreplay.com/best-practices-for-security-in-nextjs/?ref=dailydev)<br>
+
+## NextJS boilerplate
+- [https://dev.to/fredy/top-5-nextjs-reactjs-boilerplates-for-2024-ll9?ref=dailydev](https://dev.to/fredy/top-5-nextjs-reactjs-boilerplates-for-2024-ll9?ref=dailydev)<br>
