@@ -154,3 +154,6 @@
 
 ## NextJS boilerplate
 - [https://dev.to/fredy/top-5-nextjs-reactjs-boilerplates-for-2024-ll9?ref=dailydev](https://dev.to/fredy/top-5-nextjs-reactjs-boilerplates-for-2024-ll9?ref=dailydev)<br>
+
+## NextJS vs Remix
+- [https://blog.saeloun.com/2024/02/21/next.js-vs-remix/?ref=dailydev](https://blog.saeloun.com/2024/02/21/next.js-vs-remix/?ref=dailydev)<br>
