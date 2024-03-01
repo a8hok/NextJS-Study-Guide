@@ -157,3 +157,6 @@
 
 ## NextJS vs Remix
 - [https://blog.saeloun.com/2024/02/21/next.js-vs-remix/?ref=dailydev](https://blog.saeloun.com/2024/02/21/next.js-vs-remix/?ref=dailydev)<br>
+
+## NextJS CSR and SSR
+- [https://appwrite.io/blog/post/csr-vs-ssr-with-nextjs?ref=dailydev](https://appwrite.io/blog/post/csr-vs-ssr-with-nextjs?ref=dailydev)<br>
