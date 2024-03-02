@@ -3,7 +3,7 @@
 ## Table of Contents
 
   * [`NextJS`](#-nextjs-)
-  * [Nextjs 13](#nextjs-13)
+  * [NextJS 13](#nextjs-13)
   * [NextJS deployment](#nextjs-deployment)
   * [NextJS SEO](#nextjs-seo)
   * [NextJS youtube](#nextjs-youtube)
@@ -83,7 +83,7 @@
 - [https://www.permit.io/blog/location-based-access-control-made-easy-with-nextjs-and-ipinfo](https://www.permit.io/blog/location-based-access-control-made-easy-with-nextjs-and-ipinfo)<br>
 - [https://auth0.com/blog/using-nextjs-server-actions-to-call-external-apis/?ref=dailydev](https://auth0.com/blog/using-nextjs-server-actions-to-call-external-apis/?ref=dailydev)<br>
 
-## Nextjs 13
+## NextJS 13
 - [https://www.builder.io/blog/layouts-in-nextjs-13-visual](https://www.builder.io/blog/layouts-in-nextjs-13-visual)<br>
 - [https://blog.tericcabrel.com/protect-your-api-routes-in-next-js-with-middleware/](https://blog.tericcabrel.com/protect-your-api-routes-in-next-js-with-middleware/)<br>
 - [https://www.builder.io/blog/layouts-in-nextjs-13-visual](https://www.builder.io/blog/layouts-in-nextjs-13-visual)<br>
