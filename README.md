@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-  * [`NextJS`](#-nextjs-)
+  * [NextJS](#nextjs)
   * [NextJS 13](#nextjs-13)
   * [NextJS deployment](#nextjs-deployment)
   * [NextJS SEO](#nextjs-seo)
@@ -21,7 +21,7 @@
   * [NextJS CSR and SSR](#nextjs-csr-and-ssr)
   * [NextJS boilerplate](#nextjs-boilerplate-1)
 
-## `NextJS`
+## NextJS
 - [https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-nextjs-tailwindcss/](https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-nextjs-tailwindcss/)<br>
 - [https://bestofreactjs.com/repo/beauwilliams-demo-next-typescript-hardhat-marketplace](https://bestofreactjs.com/repo/beauwilliams-demo-next-typescript-hardhat-marketplace)<br>
 - [https://github.com/avneesh0612/react-nextjs-snippets?ref=producthunt](https://github.com/avneesh0612/react-nextjs-snippets?ref=producthunt)<br>
