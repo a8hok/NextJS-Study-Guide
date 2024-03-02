@@ -1,5 +1,26 @@
 # NextJS Study Guide
 
+## Table of Contents
+
+  * [`NextJS`](#-nextjs-)
+  * [Nextjs 13](#nextjs-13)
+  * [NextJS deployment](#nextjs-deployment)
+  * [NextJS SEO](#nextjs-seo)
+  * [NextJS youtube](#nextjs-youtube)
+  * [NextJS projects](#nextjs-projects)
+  * [Next auth](#next-auth)
+  * [NextJS Migration](#nextjs-migration)
+  * [NextJS Routing](#nextjs-routing)
+  * [NextJS Server](#nextjs-server)
+  * [NextJS Layout](#nextjs-layout)
+  * [NextJS Deploy](#nextjs-deploy)
+  * [NextJS GraphQL](#nextjs-graphql)
+  * [NextJS Security](#nextjs-security)
+  * [NextJS boilerplate](#nextjs-boilerplate)
+  * [NextJS vs Remix](#nextjs-vs-remix)
+  * [NextJS CSR and SSR](#nextjs-csr-and-ssr)
+  * [NextJS boilerplate](#nextjs-boilerplate-1)
+
 ## `NextJS`
 - [https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-nextjs-tailwindcss/](https://www.freecodecamp.org/news/how-to-build-a-portfolio-site-with-nextjs-tailwindcss/)<br>
 - [https://bestofreactjs.com/repo/beauwilliams-demo-next-typescript-hardhat-marketplace](https://bestofreactjs.com/repo/beauwilliams-demo-next-typescript-hardhat-marketplace)<br>
