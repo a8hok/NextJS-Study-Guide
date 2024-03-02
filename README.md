@@ -160,3 +160,6 @@
 
 ## NextJS CSR and SSR
 - [https://appwrite.io/blog/post/csr-vs-ssr-with-nextjs?ref=dailydev](https://appwrite.io/blog/post/csr-vs-ssr-with-nextjs?ref=dailydev)<br>
+
+## NextJS boilerplate
+- [https://github.com/ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)<br>
