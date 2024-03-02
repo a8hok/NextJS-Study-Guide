@@ -8,7 +8,7 @@
   * [NextJS SEO](#nextjs-seo)
   * [NextJS youtube](#nextjs-youtube)
   * [NextJS projects](#nextjs-projects)
-  * [Next auth](#next-auth)
+  * [NextJS auth](#next-auth)
   * [NextJS Migration](#nextjs-migration)
   * [NextJS Routing](#nextjs-routing)
   * [NextJS Server](#nextjs-server)
