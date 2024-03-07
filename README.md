@@ -155,6 +155,7 @@
 - [https://awstip.com/nextjs-data-fetching-strategies-for-server-side-components-3c66b021e8fa](https://awstip.com/nextjs-data-fetching-strategies-for-server-side-components-3c66b021e8fa)<br>
 - [https://prismic.io/blog/nextjs-typescript?ref=dailydev](https://prismic.io/blog/nextjs-typescript?ref=dailydev)<br>
 - [https://spin.atomicobject.com/api-route-handlers-app-router/?ref=dailydev](https://spin.atomicobject.com/api-route-handlers-app-router/?ref=dailydev)<br>
+- [https://blog.logrocket.com/exploring-advanced-next-js-routing-conventions/?ref=dailydev](https://blog.logrocket.com/exploring-advanced-next-js-routing-conventions/?ref=dailydev)<br>
 
 ## NextJS Server
 - [https://www.thisdot.co/blog/next-js-13-server-actions/](https://www.thisdot.co/blog/next-js-13-server-actions/)<br>
