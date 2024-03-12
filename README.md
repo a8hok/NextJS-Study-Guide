@@ -185,3 +185,6 @@
 
 ## NextJS boilerplate
 - [https://github.com/ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)<br>
+
+## NextJS Unit testing
+- [https://www.freecodecamp.org/news/how-to-setup-react-testing-library-with-nextjs/?ref=dailydev](https://www.freecodecamp.org/news/how-to-setup-react-testing-library-with-nextjs/?ref=dailydev)<br>
