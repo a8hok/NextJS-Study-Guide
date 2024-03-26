@@ -189,3 +189,6 @@
 
 ## NextJS Unit testing
 - [https://www.freecodecamp.org/news/how-to-setup-react-testing-library-with-nextjs/?ref=dailydev](https://www.freecodecamp.org/news/how-to-setup-react-testing-library-with-nextjs/?ref=dailydev)<br>
+
+## NextJS 14
+- [https://focusreactive.com/breaking-down-next-js-14/?ref=dailydev](https://focusreactive.com/breaking-down-next-js-14/?ref=dailydev)<br>
