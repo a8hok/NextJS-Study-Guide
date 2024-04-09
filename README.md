@@ -160,6 +160,7 @@
 ## NextJS Server
 - [https://www.thisdot.co/blog/next-js-13-server-actions/](https://www.thisdot.co/blog/next-js-13-server-actions/)<br>
 - [https://sadkebab.dev/blog/how-to-build-a-real-time-application-with-react-server-components-in-nextjs-14?ref=dailydev](https://sadkebab.dev/blog/how-to-build-a-real-time-application-with-react-server-components-in-nextjs-14?ref=dailydev)<br>
+- [https://www.thisdot.co/blog/nextjs-14-server-actions-and-why-building-crud-apps-is-good-for-you-with?ref=dailydev](https://www.thisdot.co/blog/nextjs-14-server-actions-and-why-building-crud-apps-is-good-for-you-with?ref=dailydev)<br>
 
 ## NextJS Layout
 - [https://dev.to/logrocket/a-guide-to-nextjs-layouts-and-nested-layouts-5c0d](https://dev.to/logrocket/a-guide-to-nextjs-layouts-and-nested-layouts-5c0d)<br>
