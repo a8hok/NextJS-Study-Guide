@@ -142,6 +142,7 @@
 - [https://www.traversymedia.com/blog/nextjs-react-authentication-clerk](https://www.traversymedia.com/blog/nextjs-react-authentication-clerk)<br>
 - [https://www.permit.io/blog/nextjs-passwordless-authentication-with-supertokens-and-twilio](https://www.permit.io/blog/nextjs-passwordless-authentication-with-supertokens-and-twilio)<br>
 - [https://www.freecodecamp.org/news/secure-next-js-applications-with-role-based-authentication-using-nextauth/?ref=dailydev](https://www.freecodecamp.org/news/secure-next-js-applications-with-role-based-authentication-using-nextauth/?ref=dailydev)<br>
+- [https://www.robinwieruch.de/next-authentication/?ref=dailydev](https://www.robinwieruch.de/next-authentication/?ref=dailydev)<br>
 
 ## NextJS Migration
 - [https://betterprogramming.pub/migrating-a-complete-creat-react-app-to-nextjs-ba6edd8e64f1](https://betterprogramming.pub/migrating-a-complete-creat-react-app-to-nextjs-ba6edd8e64f1)<br>
