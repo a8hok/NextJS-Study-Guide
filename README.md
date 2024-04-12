@@ -180,6 +180,7 @@
 
 ## NextJS boilerplate
 - [https://dev.to/fredy/top-5-nextjs-reactjs-boilerplates-for-2024-ll9?ref=dailydev](https://dev.to/fredy/top-5-nextjs-reactjs-boilerplates-for-2024-ll9?ref=dailydev)<br>
+- [https://github.com/ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)<br>
 
 ## NextJS vs Remix
 - [https://blog.saeloun.com/2024/02/21/next.js-vs-remix/?ref=dailydev](https://blog.saeloun.com/2024/02/21/next.js-vs-remix/?ref=dailydev)<br>
@@ -187,8 +188,6 @@
 ## NextJS CSR and SSR
 - [https://appwrite.io/blog/post/csr-vs-ssr-with-nextjs?ref=dailydev](https://appwrite.io/blog/post/csr-vs-ssr-with-nextjs?ref=dailydev)<br>
 
-## NextJS boilerplate
-- [https://github.com/ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)<br>
 
 ## NextJS Unit testing
 - [https://www.freecodecamp.org/news/how-to-setup-react-testing-library-with-nextjs/?ref=dailydev](https://www.freecodecamp.org/news/how-to-setup-react-testing-library-with-nextjs/?ref=dailydev)<br>
