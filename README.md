@@ -133,6 +133,7 @@
 - [https://dev.to/alexefimenko/building-a-local-development-environment-running-a-nextjs-full-stack-app-with-postgresql-and-minio-s3-using-docker-1e6m?ref=dailydev](https://dev.to/alexefimenko/building-a-local-development-environment-running-a-nextjs-full-stack-app-with-postgresql-and-minio-s3-using-docker-1e6m?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/beginner-web-dev-tutorial-build-a-weather-app-with-next-js-typescript/](https://www.freecodecamp.org/news/beginner-web-dev-tutorial-build-a-weather-app-with-next-js-typescript/)<br>
 - [https://www.freecodecamp.org/news/build-full-stack-app-with-typescript-nextjs-redux-toolkit-firebase/?ref=dailydev](https://www.freecodecamp.org/news/build-full-stack-app-with-typescript-nextjs-redux-toolkit-firebase/?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/create-a-google-photos-clone-with-nextjs-and-cloudinary/?ref=dailydev](https://www.freecodecamp.org/news/create-a-google-photos-clone-with-nextjs-and-cloudinary/?ref=dailydev)<br>
 
 ## Next auth
 - [https://remaster.com/blog/next-auth-jwt-session](https://remaster.com/blog/next-auth-jwt-session)<br>
