@@ -134,6 +134,7 @@
 - [https://www.freecodecamp.org/news/beginner-web-dev-tutorial-build-a-weather-app-with-next-js-typescript/](https://www.freecodecamp.org/news/beginner-web-dev-tutorial-build-a-weather-app-with-next-js-typescript/)<br>
 - [https://www.freecodecamp.org/news/build-full-stack-app-with-typescript-nextjs-redux-toolkit-firebase/?ref=dailydev](https://www.freecodecamp.org/news/build-full-stack-app-with-typescript-nextjs-redux-toolkit-firebase/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/create-a-google-photos-clone-with-nextjs-and-cloudinary/?ref=dailydev](https://www.freecodecamp.org/news/create-a-google-photos-clone-with-nextjs-and-cloudinary/?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/ecommerce-site-with-next-js-tailwind-daisyui-course/](https://www.freecodecamp.org/news/ecommerce-site-with-next-js-tailwind-daisyui-course/)<br>
 
 ## Next auth
 - [https://remaster.com/blog/next-auth-jwt-session](https://remaster.com/blog/next-auth-jwt-session)<br>
