@@ -198,3 +198,6 @@
 
 ## NextJS 14
 - [https://focusreactive.com/breaking-down-next-js-14/?ref=dailydev](https://focusreactive.com/breaking-down-next-js-14/?ref=dailydev)<br>
+
+## NextJS Interview
+- [https://community.aws/content/2f8oU2RYGgjYeqO3tlcREvAo4tp/mastering-next-js-and-beyond-an-interview-with-lee-robinson](https://community.aws/content/2f8oU2RYGgjYeqO3tlcREvAo4tp/mastering-next-js-and-beyond-an-interview-with-lee-robinson)<br>
