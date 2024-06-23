@@ -137,6 +137,7 @@
 - [https://www.freecodecamp.org/news/ecommerce-site-with-next-js-tailwind-daisyui-course/](https://www.freecodecamp.org/news/ecommerce-site-with-next-js-tailwind-daisyui-course/)<br>
 - [https://dev.to/novu/building-an-e-commerce-store-with-nextjs-49m?ref=dailydev](https://dev.to/novu/building-an-e-commerce-store-with-nextjs-49m?ref=dailydev)<br>
 - [https://strapi.io/blog/build-a-landing-page-with-ai-and-nextjs?ref=dailydev](https://strapi.io/blog/build-a-landing-page-with-ai-and-nextjs?ref=dailydev)<br>
+- [https://blog.logrocket.com/handling-file-uploads-next-js-using-uploadthing/?ref=dailydev](https://blog.logrocket.com/handling-file-uploads-next-js-using-uploadthing/?ref=dailydev)<br>
 
 ## Next auth
 - [https://remaster.com/blog/next-auth-jwt-session](https://remaster.com/blog/next-auth-jwt-session)<br>
