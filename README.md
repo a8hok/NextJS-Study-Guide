@@ -206,3 +206,6 @@
 
 ## NextJS Interview
 - [https://community.aws/content/2f8oU2RYGgjYeqO3tlcREvAo4tp/mastering-next-js-and-beyond-an-interview-with-lee-robinson](https://community.aws/content/2f8oU2RYGgjYeqO3tlcREvAo4tp/mastering-next-js-and-beyond-an-interview-with-lee-robinson)<br>
+
+## NextJS state management
+- [https://medium.com/@saleh_aka_jim/zustand-in-next-js-14-with-ts-353a1cf79ae0](https://medium.com/@saleh_aka_jim/zustand-in-next-js-14-with-ts-353a1cf79ae0)<br>
