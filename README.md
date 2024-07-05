@@ -209,3 +209,6 @@
 
 ## NextJS state management
 - [https://medium.com/@saleh_aka_jim/zustand-in-next-js-14-with-ts-353a1cf79ae0](https://medium.com/@saleh_aka_jim/zustand-in-next-js-14-with-ts-353a1cf79ae0)<br>
+
+## NextJS microfrontend
+- [https://blog.stackademic.com/building-a-micro-frontend-application-with-next-js-14-2-and-tailwind-css-part-ii-e1f4ae10f6e9](https://blog.stackademic.com/building-a-micro-frontend-application-with-next-js-14-2-and-tailwind-css-part-ii-e1f4ae10f6e9)<br>
