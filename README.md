@@ -210,8 +210,12 @@
 ## NextJS Interview
 - [https://community.aws/content/2f8oU2RYGgjYeqO3tlcREvAo4tp/mastering-next-js-and-beyond-an-interview-with-lee-robinson](https://community.aws/content/2f8oU2RYGgjYeqO3tlcREvAo4tp/mastering-next-js-and-beyond-an-interview-with-lee-robinson)<br>
 
-## NextJS state management
+## NextJS State management
 - [https://medium.com/@saleh_aka_jim/zustand-in-next-js-14-with-ts-353a1cf79ae0](https://medium.com/@saleh_aka_jim/zustand-in-next-js-14-with-ts-353a1cf79ae0)<br>
 
-## NextJS microfrontend
+## NextJS Microfrontend
 - [https://blog.stackademic.com/building-a-micro-frontend-application-with-next-js-14-2-and-tailwind-css-part-ii-e1f4ae10f6e9](https://blog.stackademic.com/building-a-micro-frontend-application-with-next-js-14-2-and-tailwind-css-part-ii-e1f4ae10f6e9)<br>
+
+## NextJS performance
+- [https://www.freecodecamp.org/news/next-js-performance-optimization/?ref=dailydev](https://www.freecodecamp.org/news/next-js-performance-optimization/?ref=dailydev)<br>
+
