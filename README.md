@@ -215,6 +215,7 @@
 
 ## NextJS Microfrontend
 - [https://blog.stackademic.com/building-a-micro-frontend-application-with-next-js-14-2-and-tailwind-css-part-ii-e1f4ae10f6e9](https://blog.stackademic.com/building-a-micro-frontend-application-with-next-js-14-2-and-tailwind-css-part-ii-e1f4ae10f6e9)<br>
+- [https://blog.stackademic.com/building-a-micro-frontend-application-with-next-js-14-2-and-tailwind-css-part-iv-ad787ceabfc5](https://blog.stackademic.com/building-a-micro-frontend-application-with-next-js-14-2-and-tailwind-css-part-iv-ad787ceabfc5)<br>
 
 ## NextJS performance
 - [https://www.freecodecamp.org/news/next-js-performance-optimization/?ref=dailydev](https://www.freecodecamp.org/news/next-js-performance-optimization/?ref=dailydev)<br>
