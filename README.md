@@ -97,6 +97,7 @@
 - [https://prismic.io/blog/nextjs-13-app-directory?ref=dailydev](https://prismic.io/blog/nextjs-13-app-directory?ref=dailydev)<br>
 - [https://javascript.plainenglish.io/things-you-dont-know-about-next-js-02ee54cb5b7f](https://javascript.plainenglish.io/things-you-dont-know-about-next-js-02ee54cb5b7f)<br>
 - [https://blog.stackademic.com/3-repos-to-learn-next-js-d32aa8d32eff](https://blog.stackademic.com/3-repos-to-learn-next-js-d32aa8d32eff)<br>
+- [https://www.telerik.com/blogs/how-optimize-file-management-next-js?ref=dailydev](https://www.telerik.com/blogs/how-optimize-file-management-next-js?ref=dailydev)<br>
 
 ## NextJS deployment
 - [https://www.thisdot.co/blog/utilizing-api-environment-variables-on-next-js-apps-deployed-to-aws-amplify/](https://www.thisdot.co/blog/utilizing-api-environment-variables-on-next-js-apps-deployed-to-aws-amplify/)<br>
