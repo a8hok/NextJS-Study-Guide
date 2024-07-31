@@ -82,6 +82,7 @@
 - [https://dev.to/arshadayvid/how-i-built-an-event-ticketing-system-with-nextjs-and-firebase-50l2](https://dev.to/arshadayvid/how-i-built-an-event-ticketing-system-with-nextjs-and-firebase-50l2)<br>
 - [https://www.permit.io/blog/location-based-access-control-made-easy-with-nextjs-and-ipinfo](https://www.permit.io/blog/location-based-access-control-made-easy-with-nextjs-and-ipinfo)<br>
 - [https://auth0.com/blog/using-nextjs-server-actions-to-call-external-apis/?ref=dailydev](https://auth0.com/blog/using-nextjs-server-actions-to-call-external-apis/?ref=dailydev)<br>
+- [https://dev.to/arindam_1729/how-to-build-a-request-access-approval-system-using-nextjs-p3p?ref=dailydev](https://dev.to/arindam_1729/how-to-build-a-request-access-approval-system-using-nextjs-p3p?ref=dailydev)<br>
 
 ## NextJS 13
 - [https://www.builder.io/blog/layouts-in-nextjs-13-visual](https://www.builder.io/blog/layouts-in-nextjs-13-visual)<br>
