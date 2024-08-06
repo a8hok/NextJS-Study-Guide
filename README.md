@@ -143,6 +143,7 @@
 - [https://blog.logrocket.com/handling-file-uploads-next-js-using-uploadthing/?ref=dailydev](https://blog.logrocket.com/handling-file-uploads-next-js-using-uploadthing/?ref=dailydev)<br>
 - [https://blog.gopenai.com/building-a-next-js-chatbot-chatgpt-with-your-own-data-using-langchain-openai-and-supabase-a770e3fa9163](https://blog.gopenai.com/building-a-next-js-chatbot-chatgpt-with-your-own-data-using-langchain-openai-and-supabase-a770e3fa9163)<br>
 - [https://www.freecodecamp.org/news/build-and-deploy-a-hotel-management-site/](https://www.freecodecamp.org/news/build-and-deploy-a-hotel-management-site/)<br>
+- [https://dev.to/priyankarpal/how-to-build-a-private-link-sharing-app-using-nextjs-nap?ref=dailydev](https://dev.to/priyankarpal/how-to-build-a-private-link-sharing-app-using-nextjs-nap?ref=dailydev)<br>
 
 ## Next auth
 - [https://remaster.com/blog/next-auth-jwt-session](https://remaster.com/blog/next-auth-jwt-session)<br>
