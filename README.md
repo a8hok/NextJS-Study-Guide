@@ -210,6 +210,7 @@
 
 ## NextJS 14
 - [https://focusreactive.com/breaking-down-next-js-14/?ref=dailydev](https://focusreactive.com/breaking-down-next-js-14/?ref=dailydev)<br>
+- [https://blog.stackademic.com/next-js-full-stack-web-app-2024-04c92bebd70d](https://blog.stackademic.com/next-js-full-stack-web-app-2024-04c92bebd70d)<br>
 
 ## NextJS Interview
 - [https://community.aws/content/2f8oU2RYGgjYeqO3tlcREvAo4tp/mastering-next-js-and-beyond-an-interview-with-lee-robinson](https://community.aws/content/2f8oU2RYGgjYeqO3tlcREvAo4tp/mastering-next-js-and-beyond-an-interview-with-lee-robinson)<br>
