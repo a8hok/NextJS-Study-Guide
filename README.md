@@ -226,3 +226,6 @@
 ## NextJS performance
 - [https://www.freecodecamp.org/news/next-js-performance-optimization/?ref=dailydev](https://www.freecodecamp.org/news/next-js-performance-optimization/?ref=dailydev)<br>
 
+## NextJS error handling
+- [https://www.telerik.com/blogs/understand-error-handling-modern-next-js?ref=dailydev](https://www.telerik.com/blogs/understand-error-handling-modern-next-js?ref=dailydev)<br>
+
