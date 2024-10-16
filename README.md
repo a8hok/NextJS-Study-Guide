@@ -154,6 +154,7 @@
 - [https://dev.to/cre8stevedev/practical-guide-to-implementing-functional-seo-in-nextjs-app-router-static-dynamic-metadata-4ae2?ref=dailydev](https://dev.to/cre8stevedev/practical-guide-to-implementing-functional-seo-in-nextjs-app-router-static-dynamic-metadata-4ae2?ref=dailydev)<br>
 - [https://github.com/yournextstore/yournextstore?ref=dailydev](https://github.com/yournextstore/yournextstore?ref=dailydev)<br>
 - [https://medium.com/@wdswy/how-to-build-a-multi-step-form-using-nextjs-typescript-react-context-and-shadcn-ui-ef1b7dcceec3](https://medium.com/@wdswy/how-to-build-a-multi-step-form-using-nextjs-typescript-react-context-and-shadcn-ui-ef1b7dcceec3)<br>
+- [https://medium.com/@dilhancodes/implementing-resend-in-next-js-step-by-step-guide-d4f0ac59241c](https://medium.com/@dilhancodes/implementing-resend-in-next-js-step-by-step-guide-d4f0ac59241c)<br>
 
 ## Next auth
 - [https://remaster.com/blog/next-auth-jwt-session](https://remaster.com/blog/next-auth-jwt-session)<br>
