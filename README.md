@@ -116,6 +116,7 @@
 - [https://www.builder.io/blog/routing-seo-metadata-nextjs-13](https://www.builder.io/blog/routing-seo-metadata-nextjs-13)<br>
 - [https://hackernoon.com/optimizing-seo-in-nextjs-techniques-for-better-search-engine-visibility?source=rss](https://hackernoon.com/optimizing-seo-in-nextjs-techniques-for-better-search-engine-visibility?source=rss)<br>
 - [https://devphobia.com/posts/how-to-setup-auto-generate-sitemap-in-nextjs](https://devphobia.com/posts/how-to-setup-auto-generate-sitemap-in-nextjs)<br>
+- [https://dev.to/cre8stevedev/practical-guide-to-implementing-functional-seo-in-nextjs-app-router-static-dynamic-metadata-4ae2?ref=dailydev](https://dev.to/cre8stevedev/practical-guide-to-implementing-functional-seo-in-nextjs-app-router-static-dynamic-metadata-4ae2?ref=dailydev)<br>
 
 ## NextJS youtube
 - [https://www.youtube.com/watch?v=34396VmsYp8](https://www.youtube.com/watch?v=34396VmsYp8)<br>
