@@ -89,6 +89,7 @@
 - [https://www.permit.io/blog/location-based-access-control-made-easy-with-nextjs-and-ipinfo](https://www.permit.io/blog/location-based-access-control-made-easy-with-nextjs-and-ipinfo)<br>
 - [https://auth0.com/blog/using-nextjs-server-actions-to-call-external-apis/?ref=dailydev](https://auth0.com/blog/using-nextjs-server-actions-to-call-external-apis/?ref=dailydev)<br>
 - [https://dev.to/arindam_1729/how-to-build-a-request-access-approval-system-using-nextjs-p3p?ref=dailydev](https://dev.to/arindam_1729/how-to-build-a-request-access-approval-system-using-nextjs-p3p?ref=dailydev)<br>
+- [https://medium.com/@raiyanmemon/page-transition-in-nextjs-1483c7e58867](https://medium.com/@raiyanmemon/page-transition-in-nextjs-1483c7e58867)<br>
 
 ## NextJS 13
 - [https://www.builder.io/blog/layouts-in-nextjs-13-visual](https://www.builder.io/blog/layouts-in-nextjs-13-visual)<br>
