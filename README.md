@@ -245,3 +245,6 @@
 ## NextJS error handling
 - [https://www.telerik.com/blogs/understand-error-handling-modern-next-js?ref=dailydev](https://www.telerik.com/blogs/understand-error-handling-modern-next-js?ref=dailydev)<br>
 
+## NextJS caching
+- [https://blog.logrocket.com/advanced-next-js-caching-strategies/?ref=dailydev](https://blog.logrocket.com/advanced-next-js-caching-strategies/?ref=dailydev)<br>
+
