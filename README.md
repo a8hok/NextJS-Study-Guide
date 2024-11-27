@@ -158,6 +158,7 @@
 - [https://medium.com/@wdswy/how-to-build-a-multi-step-form-using-nextjs-typescript-react-context-and-shadcn-ui-ef1b7dcceec3](https://medium.com/@wdswy/how-to-build-a-multi-step-form-using-nextjs-typescript-react-context-and-shadcn-ui-ef1b7dcceec3)<br>
 - [https://medium.com/@dilhancodes/implementing-resend-in-next-js-step-by-step-guide-d4f0ac59241c](https://medium.com/@dilhancodes/implementing-resend-in-next-js-step-by-step-guide-d4f0ac59241c)<br>
 - [https://getnextjsthemes.com/](https://getnextjsthemes.com/)<br>
+- [https://nextjs.batchtool.com/?utm_source=dailydev](https://nextjs.batchtool.com/?utm_source=dailydev)<br>
 
 ## Next auth
 - [https://remaster.com/blog/next-auth-jwt-session](https://remaster.com/blog/next-auth-jwt-session)<br>
