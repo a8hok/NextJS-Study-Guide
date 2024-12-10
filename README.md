@@ -254,3 +254,6 @@
 ## NextJS tools
 - [https://medium.com/@sanjay_joshi/top-next-js-tools-for-next-gen-developers-4b536c657f6a](https://medium.com/@sanjay_joshi/top-next-js-tools-for-next-gen-developers-4b536c657f6a)<br>
 
+## NextJS dev-ops
+- [https://codingcat.dev/podcast/how-to-add-sentry-to-next-js-the-right-way?ref=dailydev](https://codingcat.dev/podcast/how-to-add-sentry-to-next-js-the-right-way?ref=dailydev)<br>
+
