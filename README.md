@@ -257,3 +257,6 @@
 ## NextJS dev-ops
 - [https://codingcat.dev/podcast/how-to-add-sentry-to-next-js-the-right-way?ref=dailydev](https://codingcat.dev/podcast/how-to-add-sentry-to-next-js-the-right-way?ref=dailydev)<br>
 
+## NextJS Github
+- [https://medium.com/@mdtaqui.jhar/6-repos-to-master-nextjs-d01672dbea7c](https://medium.com/@mdtaqui.jhar/6-repos-to-master-nextjs-d01672dbea7c)<br>
+
