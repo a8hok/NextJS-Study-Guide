@@ -260,3 +260,6 @@
 ## NextJS Github
 - [https://medium.com/@mdtaqui.jhar/6-repos-to-master-nextjs-d01672dbea7c](https://medium.com/@mdtaqui.jhar/6-repos-to-master-nextjs-d01672dbea7c)<br>
 
+## NextJS dev-ops
+- [https://markus.oberlehner.net/blog/running-nextjs-with-docker/?ref=dailydev](https://markus.oberlehner.net/blog/running-nextjs-with-docker/?ref=dailydev)<br>
+
