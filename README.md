@@ -257,6 +257,9 @@
 ## NextJS dev-ops
 - [https://codingcat.dev/podcast/how-to-add-sentry-to-next-js-the-right-way?ref=dailydev](https://codingcat.dev/podcast/how-to-add-sentry-to-next-js-the-right-way?ref=dailydev)<br>
 
+## NextJS 15
+- [https://dev.to/robertobutti/how-to-build-a-dynamic-website-with-nextjs-15-app-router-react-19-storyblok-and-bun--2972?ref=dailydev](https://dev.to/robertobutti/how-to-build-a-dynamic-website-with-nextjs-15-app-router-react-19-storyblok-and-bun--2972?ref=dailydev)<br>
+
 ## NextJS Github
 - [https://medium.com/@mdtaqui.jhar/6-repos-to-master-nextjs-d01672dbea7c](https://medium.com/@mdtaqui.jhar/6-repos-to-master-nextjs-d01672dbea7c)<br>
 
