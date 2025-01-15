@@ -245,6 +245,7 @@
 ## NextJS performance
 - [https://www.freecodecamp.org/news/next-js-performance-optimization/?ref=dailydev](https://www.freecodecamp.org/news/next-js-performance-optimization/?ref=dailydev)<br>
 - [https://javascript.plainenglish.io/efficient-api-handling-canceling-previous-api-calls-in-next-js-with-swr-5f3e54fcf06f](https://javascript.plainenglish.io/efficient-api-handling-canceling-previous-api-calls-in-next-js-with-swr-5f3e54fcf06f)<br>
+- [https://www.freecodecamp.org/news/optimize-nextjs-web-apps-for-better-performance/?ref=dailydev](https://www.freecodecamp.org/news/optimize-nextjs-web-apps-for-better-performance/?ref=dailydev)<br>
 
 ## NextJS error handling
 - [https://www.telerik.com/blogs/understand-error-handling-modern-next-js?ref=dailydev](https://www.telerik.com/blogs/understand-error-handling-modern-next-js?ref=dailydev)<br>
