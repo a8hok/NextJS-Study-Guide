@@ -213,6 +213,7 @@
 ## NextJS boilerplate
 - [https://dev.to/fredy/top-5-nextjs-reactjs-boilerplates-for-2024-ll9?ref=dailydev](https://dev.to/fredy/top-5-nextjs-reactjs-boilerplates-for-2024-ll9?ref=dailydev)<br>
 - [https://github.com/ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)<br>
+- [https://ouassim.tech/notes/setting-up-a-nextjs-project-with-essential-best-practices/?ref=dailydev](https://ouassim.tech/notes/setting-up-a-nextjs-project-with-essential-best-practices/?ref=dailydev)<br>
 
 ## NextJS vs Remix
 - [https://blog.saeloun.com/2024/02/21/next.js-vs-remix/?ref=dailydev](https://blog.saeloun.com/2024/02/21/next.js-vs-remix/?ref=dailydev)<br>
@@ -246,6 +247,8 @@
 - [https://www.freecodecamp.org/news/next-js-performance-optimization/?ref=dailydev](https://www.freecodecamp.org/news/next-js-performance-optimization/?ref=dailydev)<br>
 - [https://javascript.plainenglish.io/efficient-api-handling-canceling-previous-api-calls-in-next-js-with-swr-5f3e54fcf06f](https://javascript.plainenglish.io/efficient-api-handling-canceling-previous-api-calls-in-next-js-with-swr-5f3e54fcf06f)<br>
 - [https://www.freecodecamp.org/news/optimize-nextjs-web-apps-for-better-performance/?ref=dailydev](https://www.freecodecamp.org/news/optimize-nextjs-web-apps-for-better-performance/?ref=dailydev)<br>
+- [https://ouassim.tech/notes/setting-up-a-nextjs-project-with-essential-best-practices/?ref=dailydev](https://ouassim.tech/notes/setting-up-a-nextjs-project-with-essential-best-practices/?ref=dailydev)<br>
+- []()<br>
 
 ## NextJS error handling
 - [https://www.telerik.com/blogs/understand-error-handling-modern-next-js?ref=dailydev](https://www.telerik.com/blogs/understand-error-handling-modern-next-js?ref=dailydev)<br>
