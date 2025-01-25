@@ -215,6 +215,7 @@
 - [https://dev.to/fredy/top-5-nextjs-reactjs-boilerplates-for-2024-ll9?ref=dailydev](https://dev.to/fredy/top-5-nextjs-reactjs-boilerplates-for-2024-ll9?ref=dailydev)<br>
 - [https://github.com/ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)<br>
 - [https://ouassim.tech/notes/setting-up-a-nextjs-project-with-essential-best-practices/?ref=dailydev](https://ouassim.tech/notes/setting-up-a-nextjs-project-with-essential-best-practices/?ref=dailydev)<br>
+- [https://www.codingcrafts.io/blog/how-to-import-image-in-next-js-from-public-folder/?ref=dailydev](https://www.codingcrafts.io/blog/how-to-import-image-in-next-js-from-public-folder/?ref=dailydev)<br>
 
 ## NextJS vs Remix
 - [https://blog.saeloun.com/2024/02/21/next.js-vs-remix/?ref=dailydev](https://blog.saeloun.com/2024/02/21/next.js-vs-remix/?ref=dailydev)<br>
