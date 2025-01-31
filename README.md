@@ -236,6 +236,7 @@
 - [https://medium.com/@sanjay_joshi/top-next-js-tools-for-next-gen-developers-4b536c657f6a](https://medium.com/@sanjay_joshi/top-next-js-tools-for-next-gen-developers-4b536c657f6a)<br>
 - [https://www.youtube.com/watch?v=jJVAla0dWJo](https://www.youtube.com/watch?v=jJVAla0dWJo)<br>
 - [https://medium.com/@raiyanmemon/page-transition-in-nextjs-1483c7e58867](https://medium.com/@raiyanmemon/page-transition-in-nextjs-1483c7e58867)<br>
+- [https://faun.pub/from-setup-to-execution-the-most-accurate-tanstack-query-and-next-js-14-integration-guide-8e5aff6ee8ba](https://faun.pub/from-setup-to-execution-the-most-accurate-tanstack-query-and-next-js-14-integration-guide-8e5aff6ee8ba)<br>
 
 ## NextJS Interview
 - [https://community.aws/content/2f8oU2RYGgjYeqO3tlcREvAo4tp/mastering-next-js-and-beyond-an-interview-with-lee-robinson](https://community.aws/content/2f8oU2RYGgjYeqO3tlcREvAo4tp/mastering-next-js-and-beyond-an-interview-with-lee-robinson)<br>
