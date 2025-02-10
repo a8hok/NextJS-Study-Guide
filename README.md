@@ -163,6 +163,7 @@
 - [https://medium.com/@dilhancodes/implementing-resend-in-next-js-step-by-step-guide-d4f0ac59241c](https://medium.com/@dilhancodes/implementing-resend-in-next-js-step-by-step-guide-d4f0ac59241c)<br>
 - [https://getnextjsthemes.com/](https://getnextjsthemes.com/)<br>
 - [https://nextjs.batchtool.com/?utm_source=dailydev](https://nextjs.batchtool.com/?utm_source=dailydev)<br>
+- [https://www.freecodecamp.org/news/build-a-full-stack-app-with-nextjs-and-strapi/](https://www.freecodecamp.org/news/build-a-full-stack-app-with-nextjs-and-strapi/)<br>
 
 ## Next auth
 - [https://remaster.com/blog/next-auth-jwt-session](https://remaster.com/blog/next-auth-jwt-session)<br>
