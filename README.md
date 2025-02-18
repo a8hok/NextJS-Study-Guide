@@ -135,6 +135,7 @@
 - [https://www.youtube.com/watch?v=jUrbJ2y-xmo](https://www.youtube.com/watch?v=jUrbJ2y-xmo)<br>
 - [https://www.youtube.com/watch?v=ArmPzvHTcfQ](https://www.youtube.com/watch?v=ArmPzvHTcfQ)<br>
 - [https://www.youtube.com/watch?v=yDjXW-0Gi6k](https://www.youtube.com/watch?v=yDjXW-0Gi6k)<br>
+- [https://www.youtube.com/watch?v=17VzlB35Ixw](https://www.youtube.com/watch?v=17VzlB35Ixw)<br>
 
 ## NextJS projects
 - [https://dev.to/arshadayvid/how-i-built-a-sales-management-app-with-nextjs-13-typescript-and-firebase-16cb](https://dev.to/arshadayvid/how-i-built-a-sales-management-app-with-nextjs-13-typescript-and-firebase-16cb)<br>
