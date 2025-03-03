@@ -285,5 +285,5 @@
 - [https://markus.oberlehner.net/blog/running-nextjs-with-docker/?ref=dailydev](https://markus.oberlehner.net/blog/running-nextjs-with-docker/?ref=dailydev)<br>
 
 ## NextJS youtube
-- []()<br>
+- [https://www.youtube.com/watch?v=jJVAla0dWJo&t=1s](https://www.youtube.com/watch?v=jJVAla0dWJo&t=1s)<br>
 
