@@ -202,6 +202,7 @@
 - [https://www.thisdot.co/blog/nextjs-14-server-actions-and-why-building-crud-apps-is-good-for-you-with?ref=dailydev](https://www.thisdot.co/blog/nextjs-14-server-actions-and-why-building-crud-apps-is-good-for-you-with?ref=dailydev)<br>
 - [https://www.davegray.codes/posts/nextjs-server-actions-with-next-safe-action?ref=dailydev](https://www.davegray.codes/posts/nextjs-server-actions-with-next-safe-action?ref=dailydev)<br>
 - [https://spin.atomicobject.com/server-actions-components/?ref=dailydev](https://spin.atomicobject.com/server-actions-components/?ref=dailydev)<br>
+- [https://tigerabrodi.blog/server-and-client-component-patterns-in-nextjs?ref=dailydev](https://tigerabrodi.blog/server-and-client-component-patterns-in-nextjs?ref=dailydev)<br>
 
 ## NextJS Layout
 - [https://dev.to/logrocket/a-guide-to-nextjs-layouts-and-nested-layouts-5c0d](https://dev.to/logrocket/a-guide-to-nextjs-layouts-and-nested-layouts-5c0d)<br>
