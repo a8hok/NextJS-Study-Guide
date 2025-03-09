@@ -167,6 +167,7 @@
 - [https://getnextjsthemes.com/](https://getnextjsthemes.com/)<br>
 - [https://nextjs.batchtool.com/?utm_source=dailydev](https://nextjs.batchtool.com/?utm_source=dailydev)<br>
 - [https://www.freecodecamp.org/news/build-a-full-stack-app-with-nextjs-and-strapi/](https://www.freecodecamp.org/news/build-a-full-stack-app-with-nextjs-and-strapi/)<br>
+- [https://www.freecodecamp.org/news/how-to-build-a-social-learning-platform-using-nextjs-stream-and-supabase/?ref=dailydev](https://www.freecodecamp.org/news/how-to-build-a-social-learning-platform-using-nextjs-stream-and-supabase/?ref=dailydev)<br>
 
 ## Next auth
 - [https://remaster.com/blog/next-auth-jwt-session](https://remaster.com/blog/next-auth-jwt-session)<br>
