@@ -289,4 +289,5 @@
 
 ## NextJS youtube
 - [https://www.youtube.com/watch?v=jJVAla0dWJo&t=1s](https://www.youtube.com/watch?v=jJVAla0dWJo&t=1s)<br>
+- [https://www.youtube.com/watch?v=9DEvkYB5_A4](https://www.youtube.com/watch?v=9DEvkYB5_A4)<br>
 
