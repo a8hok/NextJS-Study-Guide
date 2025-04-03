@@ -181,6 +181,7 @@
 - [https://www.cerbos.dev/blog/a-complete-guide-to-next-js-authorization?ref=dailydev](https://www.cerbos.dev/blog/a-complete-guide-to-next-js-authorization?ref=dailydev)<br>
 - [https://blog.greenroots.info/nextjs-and-next-auth-v5-guide-to-social-logins?ref=dailydev](https://blog.greenroots.info/nextjs-and-next-auth-v5-guide-to-social-logins?ref=dailydev)<br>
 - [https://prismic.io/blog/nextjs-auth0?ref=dailydev](https://prismic.io/blog/nextjs-auth0?ref=dailydev)<br>
+- [https://www.wisp.blog/blog/authjs-vs-betterauth-for-nextjs-a-comprehensive-comparison?ref=dailydev](https://www.wisp.blog/blog/authjs-vs-betterauth-for-nextjs-a-comprehensive-comparison?ref=dailydev)<br>
 
 ## NextJS Migration
 - [https://betterprogramming.pub/migrating-a-complete-creat-react-app-to-nextjs-ba6edd8e64f1](https://betterprogramming.pub/migrating-a-complete-creat-react-app-to-nextjs-ba6edd8e64f1)<br>
