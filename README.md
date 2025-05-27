@@ -174,6 +174,7 @@
 - [https://www.youtube.com/watch?v=BCufdom7xgY](https://www.youtube.com/watch?v=BCufdom7xgY)<br>
 - [https://www.freecodecamp.org/news/build-a-full-stack-ai-note-taking-app-with-nextjs-and-supabase/?ref=dailydev](https://www.freecodecamp.org/news/build-a-full-stack-ai-note-taking-app-with-nextjs-and-supabase/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/code-a-dropbox-clone-with-nextjs/?ref=dailydev](https://www.freecodecamp.org/news/code-a-dropbox-clone-with-nextjs/?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/build-a-full-stack-app-with-nextjs-and-strapi/](https://www.freecodecamp.org/news/build-a-full-stack-app-with-nextjs-and-strapi/)<br>
 
 ## Next auth
 - [https://remaster.com/blog/next-auth-jwt-session](https://remaster.com/blog/next-auth-jwt-session)<br>
