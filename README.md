@@ -308,3 +308,6 @@
 ## NextJS AI
 - [https://www.freecodecamp.org/news/code-a-full-stack-ai-powered-email-saas/](https://www.freecodecamp.org/news/code-a-full-stack-ai-powered-email-saas/)<br>
 
+## NextJS image optimization
+- [https://utsavdesai26.medium.com/next-js-image-optimization-ultimate-guide-to-next-image-2025-edition-1aefb479e674](https://utsavdesai26.medium.com/next-js-image-optimization-ultimate-guide-to-next-image-2025-edition-1aefb479e674)<br>
+
