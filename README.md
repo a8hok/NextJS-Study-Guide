@@ -292,6 +292,8 @@
 - [https://dev.to/mahdijazini/ssg-vs-ssr-in-nextjs-15-27j6?ref=dailydev](https://dev.to/mahdijazini/ssg-vs-ssr-in-nextjs-15-27j6?ref=dailydev)<br>
 - [https://www.allanfernandes.dev/blog/next-js-blog-using-app-router?ref=dailydev](https://www.allanfernandes.dev/blog/next-js-blog-using-app-router?ref=dailydev)<br>
 - [https://dev.to/mahdijazini/ssg-vs-ssr-in-nextjs-15-27j6?ref=dailydev](https://dev.to/mahdijazini/ssg-vs-ssr-in-nextjs-15-27j6?ref=dailydev)<br>
+- [https://blog.stackademic.com/effective-data-fetching-in-next-js-15-and-react-19-with-the-use-hook-5de67a431d29](https://blog.stackademic.com/effective-data-fetching-in-next-js-15-and-react-19-with-the-use-hook-5de67a431d29)<br>
+  
 
 ## NextJS Github
 - [https://medium.com/@mdtaqui.jhar/6-repos-to-master-nextjs-d01672dbea7c](https://medium.com/@mdtaqui.jhar/6-repos-to-master-nextjs-d01672dbea7c)<br>
