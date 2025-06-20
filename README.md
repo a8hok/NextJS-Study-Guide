@@ -301,6 +301,7 @@
 
 ## NextJS dev-ops
 - [https://markus.oberlehner.net/blog/running-nextjs-with-docker/?ref=dailydev](https://markus.oberlehner.net/blog/running-nextjs-with-docker/?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/deploy-to-vercel-with-github-actions/?ref=dailydev](https://www.freecodecamp.org/news/deploy-to-vercel-with-github-actions/?ref=dailydev)<br>
 
 ## NextJS youtube
 - [https://www.youtube.com/watch?v=jJVAla0dWJo&t=1s](https://www.youtube.com/watch?v=jJVAla0dWJo&t=1s)<br>
