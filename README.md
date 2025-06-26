@@ -314,3 +314,6 @@
 ## NextJS image optimization
 - [https://utsavdesai26.medium.com/next-js-image-optimization-ultimate-guide-to-next-image-2025-edition-1aefb479e674](https://utsavdesai26.medium.com/next-js-image-optimization-ultimate-guide-to-next-image-2025-edition-1aefb479e674)<br>
 
+## NextJS with Python
+- [https://dev.to/sahan/streaming-apis-with-fastapi-and-nextjs-part-1-3ndj?context=digest](https://dev.to/sahan/streaming-apis-with-fastapi-and-nextjs-part-1-3ndj?context=digest)<br>
+
