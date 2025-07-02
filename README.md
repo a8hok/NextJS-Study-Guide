@@ -296,6 +296,7 @@
 - [https://dev.to/mahdijazini/codemod-in-nextjs-15-updating-your-project-has-never-been-easier-h38?ref=dailydev](https://dev.to/mahdijazini/codemod-in-nextjs-15-updating-your-project-has-never-been-easier-h38?ref=dailydev)<br>
 - [https://www.youtube.com/watch?v=S5tjBqzs31w](https://www.youtube.com/watch?v=S5tjBqzs31w)<br>
 - [https://dev.to/mahdijazini/ssg-vs-ssr-in-nextjs-15-27j6?ref=dailydev](https://dev.to/mahdijazini/ssg-vs-ssr-in-nextjs-15-27j6?ref=dailydev)<br>
+- [https://blog.logrocket.com/how-to-optimize-next-js-app-after?ref=dailydev](https://blog.logrocket.com/how-to-optimize-next-js-app-after?ref=dailydev)<br>
   
 
 ## NextJS Github
