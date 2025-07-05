@@ -191,6 +191,7 @@
 - [https://www.wisp.blog/blog/authjs-vs-betterauth-for-nextjs-a-comprehensive-comparison?ref=dailydev](https://www.wisp.blog/blog/authjs-vs-betterauth-for-nextjs-a-comprehensive-comparison?ref=dailydev)<br>
 - [https://leapcell.io/blog/implement-jwt-middleware-nextjs-auth?ref=dailydev](https://leapcell.io/blog/implement-jwt-middleware-nextjs-auth?ref=dailydev)<br>
 - [https://www.permit.io/blog/implementing-authentication-and-authorization-in-nextjs?ref=dailydev](https://www.permit.io/blog/implementing-authentication-and-authorization-in-nextjs?ref=dailydev)<br>
+- [https://www.devtoolsacademy.com/blog/betterauth-vs-nextauth/?ref=dailydev](https://www.devtoolsacademy.com/blog/betterauth-vs-nextauth/?ref=dailydev)<br>
 
 ## NextJS Migration
 - [https://betterprogramming.pub/migrating-a-complete-creat-react-app-to-nextjs-ba6edd8e64f1](https://betterprogramming.pub/migrating-a-complete-creat-react-app-to-nextjs-ba6edd8e64f1)<br>
