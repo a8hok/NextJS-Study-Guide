@@ -298,6 +298,7 @@
 - [https://www.youtube.com/watch?v=S5tjBqzs31w](https://www.youtube.com/watch?v=S5tjBqzs31w)<br>
 - [https://dev.to/mahdijazini/ssg-vs-ssr-in-nextjs-15-27j6?ref=dailydev](https://dev.to/mahdijazini/ssg-vs-ssr-in-nextjs-15-27j6?ref=dailydev)<br>
 - [https://blog.logrocket.com/how-to-optimize-next-js-app-after?ref=dailydev](https://blog.logrocket.com/how-to-optimize-next-js-app-after?ref=dailydev)<br>
+- [https://nextjs.org/blog/next-15-4?ref=dailydev](https://nextjs.org/blog/next-15-4?ref=dailydev)<br>
   
 
 ## NextJS Github
