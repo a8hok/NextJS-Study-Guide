@@ -299,6 +299,7 @@
 - [https://dev.to/mahdijazini/ssg-vs-ssr-in-nextjs-15-27j6?ref=dailydev](https://dev.to/mahdijazini/ssg-vs-ssr-in-nextjs-15-27j6?ref=dailydev)<br>
 - [https://blog.logrocket.com/how-to-optimize-next-js-app-after?ref=dailydev](https://blog.logrocket.com/how-to-optimize-next-js-app-after?ref=dailydev)<br>
 - [https://nextjs.org/blog/next-15-4?ref=dailydev](https://nextjs.org/blog/next-15-4?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/how-to-create-a-nextjs-pwa/](https://www.freecodecamp.org/news/how-to-create-a-nextjs-pwa/)<br>
   
 
 ## NextJS Github
