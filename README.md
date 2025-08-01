@@ -279,6 +279,7 @@
 
 ## NextJS caching
 - [https://blog.logrocket.com/advanced-next-js-caching-strategies/?ref=dailydev](https://blog.logrocket.com/advanced-next-js-caching-strategies/?ref=dailydev)<br>
+- [https://medium.com/@ancilartech/smart-caching-in-next-js-scaling-apps-to-millions-without-overloading-your-backend-6e1673085762](https://medium.com/@ancilartech/smart-caching-in-next-js-scaling-apps-to-millions-without-overloading-your-backend-6e1673085762)<br>
 
 ## NextJS tools
 - [https://medium.com/@sanjay_joshi/top-next-js-tools-for-next-gen-developers-4b536c657f6a](https://medium.com/@sanjay_joshi/top-next-js-tools-for-next-gen-developers-4b536c657f6a)<br>
