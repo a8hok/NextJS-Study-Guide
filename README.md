@@ -302,6 +302,7 @@
 - [https://nextjs.org/blog/next-15-4?ref=dailydev](https://nextjs.org/blog/next-15-4?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/how-to-create-a-nextjs-pwa/](https://www.freecodecamp.org/news/how-to-create-a-nextjs-pwa/)<br>
 - [https://dev.to/mahdijazini/the-hidden-power-of-nextjs-15-in-your-hands-1fje?ref=dailydev](https://dev.to/mahdijazini/the-hidden-power-of-nextjs-15-in-your-hands-1fje?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/the-nextjs-15-streaming-handbook/?ref=dailydev](https://www.freecodecamp.org/news/the-nextjs-15-streaming-handbook/?ref=dailydev)<br>
   
 
 ## NextJS Github
@@ -315,7 +316,6 @@
 - [https://www.youtube.com/watch?v=jJVAla0dWJo&t=1s](https://www.youtube.com/watch?v=jJVAla0dWJo&t=1s)<br>
 - [https://www.youtube.com/watch?v=9DEvkYB5_A4](https://www.youtube.com/watch?v=9DEvkYB5_A4)<br>
 - [https://www.youtube.com/watch?v=fC3_Luf7wVA](https://www.youtube.com/watch?v=fC3_Luf7wVA)<br>
-
 
 ## NextJS AI
 - [https://www.freecodecamp.org/news/code-a-full-stack-ai-powered-email-saas/](https://www.freecodecamp.org/news/code-a-full-stack-ai-powered-email-saas/)<br>
