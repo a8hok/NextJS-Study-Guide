@@ -303,6 +303,7 @@
 - [https://www.freecodecamp.org/news/how-to-create-a-nextjs-pwa/](https://www.freecodecamp.org/news/how-to-create-a-nextjs-pwa/)<br>
 - [https://dev.to/mahdijazini/the-hidden-power-of-nextjs-15-in-your-hands-1fje?ref=dailydev](https://dev.to/mahdijazini/the-hidden-power-of-nextjs-15-in-your-hands-1fje?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/the-nextjs-15-streaming-handbook/?ref=dailydev](https://www.freecodecamp.org/news/the-nextjs-15-streaming-handbook/?ref=dailydev)<br>
+- [https://www.youtube.com/watch?v=fZdTYswuZjU](https://www.youtube.com/watch?v=fZdTYswuZjU)<br>
   
 
 ## NextJS Github
