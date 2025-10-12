@@ -305,6 +305,9 @@
 - [https://www.freecodecamp.org/news/the-nextjs-15-streaming-handbook/?ref=dailydev](https://www.freecodecamp.org/news/the-nextjs-15-streaming-handbook/?ref=dailydev)<br>
 - [https://www.youtube.com/watch?v=fZdTYswuZjU](https://www.youtube.com/watch?v=fZdTYswuZjU)<br>
 - [https://blog.curbanii.net/advanced-app-router-routing-patterns-next-js/?ref=dailydev](https://blog.curbanii.net/advanced-app-router-routing-patterns-next-js/?ref=dailydev)<br>
+
+## NextJS 16
+- [https://nextjs.org/blog/next-16-beta?ref=dailydev](https://nextjs.org/blog/next-16-beta?ref=dailydev)<br>
   
 
 ## NextJS Github
