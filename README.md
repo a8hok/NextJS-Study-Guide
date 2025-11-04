@@ -309,6 +309,7 @@
 ## NextJS 16
 - [https://nextjs.org/blog/next-16-beta?ref=dailydev](https://nextjs.org/blog/next-16-beta?ref=dailydev)<br>
 - [https://pixicstudio.medium.com/next-js-16-the-update-that-finally-feels-built-for-developers-7e5ac9f4e07a](https://pixicstudio.medium.com/next-js-16-the-update-that-finally-feels-built-for-developers-7e5ac9f4e07a)<br>
+- [https://www.youtube.com/watch?v=I1V9YWqRIeI](https://www.youtube.com/watch?v=I1V9YWqRIeI)<br>
   
 
 ## NextJS Github
