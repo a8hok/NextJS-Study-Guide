@@ -311,6 +311,7 @@
 - [https://pixicstudio.medium.com/next-js-16-the-update-that-finally-feels-built-for-developers-7e5ac9f4e07a](https://pixicstudio.medium.com/next-js-16-the-update-that-finally-feels-built-for-developers-7e5ac9f4e07a)<br>
 - [https://www.youtube.com/watch?v=I1V9YWqRIeI](https://www.youtube.com/watch?v=I1V9YWqRIeI)<br>
 - [https://appwrite.io/blog/post/everything-new-in-nextjs16?ref=dailydev](https://appwrite.io/blog/post/everything-new-in-nextjs16?ref=dailydev)<br>
+- [https://www.solvspot.com/blogs/nextjs-16-ultimate-leap?ref=dailydev](https://www.solvspot.com/blogs/nextjs-16-ultimate-leap?ref=dailydev)<br>
   
 
 ## NextJS Github
