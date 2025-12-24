@@ -313,6 +313,7 @@
 - [https://appwrite.io/blog/post/everything-new-in-nextjs16?ref=dailydev](https://appwrite.io/blog/post/everything-new-in-nextjs16?ref=dailydev)<br>
 - [https://www.solvspot.com/blogs/nextjs-16-ultimate-leap?ref=dailydev](https://www.solvspot.com/blogs/nextjs-16-ultimate-leap?ref=dailydev)<br>
 - [https://nextjs.org/blog/next-16-1?ref=dailydev](https://nextjs.org/blog/next-16-1?ref=dailydev)<br>
+- [https://www.solvspot.com/blogs/nextjs-16-ultimate-leap?ref=dailydev](https://www.solvspot.com/blogs/nextjs-16-ultimate-leap?ref=dailydev)<br>
   
 
 ## NextJS Github
