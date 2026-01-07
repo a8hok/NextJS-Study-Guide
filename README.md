@@ -327,6 +327,8 @@
 - [https://www.youtube.com/watch?v=jJVAla0dWJo&t=1s](https://www.youtube.com/watch?v=jJVAla0dWJo&t=1s)<br>
 - [https://www.youtube.com/watch?v=9DEvkYB5_A4](https://www.youtube.com/watch?v=9DEvkYB5_A4)<br>
 - [https://www.youtube.com/watch?v=fC3_Luf7wVA](https://www.youtube.com/watch?v=fC3_Luf7wVA)<br>
+- [https://www.youtube.com/watch?v=unBrzTJO3kw](https://www.youtube.com/watch?v=unBrzTJO3kw)<br>
+
 
 ## NextJS AI
 - [https://www.freecodecamp.org/news/code-a-full-stack-ai-powered-email-saas/](https://www.freecodecamp.org/news/code-a-full-stack-ai-powered-email-saas/)<br>
