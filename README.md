@@ -315,6 +315,7 @@
 - [https://nextjs.org/blog/next-16-1?ref=dailydev](https://nextjs.org/blog/next-16-1?ref=dailydev)<br>
 - [https://www.solvspot.com/blogs/nextjs-16-ultimate-leap?ref=dailydev](https://www.solvspot.com/blogs/nextjs-16-ultimate-leap?ref=dailydev)<br>
 - [https://www.syncfusion.com/blogs/post/whats-new-in-next-js-16-turbo-builds-smart-caching-ai-debugging?ref=dailydev](https://www.syncfusion.com/blogs/post/whats-new-in-next-js-16-turbo-builds-smart-caching-ai-debugging?ref=dailydev)<br>
+- [https://www.freecodecamp.org/news/how-to-use-tailwind-sidebar-npm-package-in-react-nextjs/?ref=dailydev](https://www.freecodecamp.org/news/how-to-use-tailwind-sidebar-npm-package-in-react-nextjs/?ref=dailydev)<br>
   
 
 ## NextJS Github
