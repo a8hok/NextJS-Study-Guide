@@ -177,6 +177,7 @@
 - [https://www.freecodecamp.org/news/code-a-dropbox-clone-with-nextjs/?ref=dailydev](https://www.freecodecamp.org/news/code-a-dropbox-clone-with-nextjs/?ref=dailydev)<br>
 - [https://www.freecodecamp.org/news/build-a-full-stack-app-with-nextjs-and-strapi/](https://www.freecodecamp.org/news/build-a-full-stack-app-with-nextjs-and-strapi/)<br>
 - [https://www.freecodecamp.org/news/use-next-js-tailwind-css-and-mongodb-to-build-a-ticketing-application/](https://www.freecodecamp.org/news/use-next-js-tailwind-css-and-mongodb-to-build-a-ticketing-application/)<br>
+- [https://www.shadcndeck.com/blog/how-to-build-landing-page-nextjs-shadcn?ref=dailydev](https://www.shadcndeck.com/blog/how-to-build-landing-page-nextjs-shadcn?ref=dailydev)<br>
 
 ## Next auth
 - [https://remaster.com/blog/next-auth-jwt-session](https://remaster.com/blog/next-auth-jwt-session)<br>
