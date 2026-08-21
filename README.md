@@ -345,3 +345,6 @@
 ## NextJS with Python
 - [https://dev.to/sahan/streaming-apis-with-fastapi-and-nextjs-part-1-3ndj?context=digest](https://dev.to/sahan/streaming-apis-with-fastapi-and-nextjs-part-1-3ndj?context=digest)<br>
 
+## NextJS Boilerplate
+- [https://dirstarter.com/blog/best-nextjs-templates?via=dailydev](https://dirstarter.com/blog/best-nextjs-templates?via=dailydev)<br>
+
